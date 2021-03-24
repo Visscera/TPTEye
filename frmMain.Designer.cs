@@ -140,7 +140,7 @@
             this.Controls.Add(this.picColors);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "frmMain";
-            this.Text = "Optics helper tool - The Powder Toy";
+            this.Text = "TPTEye - Optics helper tool";
             this.Load += new System.EventHandler(this.frmMain_Load);
             ((System.ComponentModel.ISupportInitialize)(this.picColors)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.picColorRender)).EndInit();

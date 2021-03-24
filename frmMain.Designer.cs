@@ -138,6 +138,7 @@
             this.Controls.Add(this.txtCurrentColor);
             this.Controls.Add(this.txtOutput);
             this.Controls.Add(this.picColors);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "frmMain";
             this.Text = "Optics helper tool - The Powder Toy";
             this.Load += new System.EventHandler(this.frmMain_Load);

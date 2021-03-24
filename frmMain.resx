@@ -137,4 +137,81 @@ FILT has many operation modes determined by its tmp property:
     10. "variable red shift" mode: Shift bits toward the red side by how many bits are to the right of the least significant bit.
     11. "variable blue shift" mode: Same as "variable red shift" but shifts towards the blue side of the spectrum instead.</value>
   </data>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        AAABAAEAICAAAAEAIACoEAAAFgAAACgAAAAgAAAAQAAAAAEAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP//
+        /wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP//
+        /wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP//
+        /wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP//
+        /wD///8A////AP///wD///8AAAAAAgAAAAIAAAAGAAAACwAAAA0AAAANAAAADQAAAA0AAAANAAAADQAA
+        AA0AAAANAAAADQAAAA0AAAANAAAADQAAAA0AAAANAAAADQAAAA0AAAANAAAADQAAAA0AAAANAAAADQAA
+        AA0AAAANAAAADQAAAA0AAAANAAAACwAAAAYAAAAGAAAABgAAABYAAAAjAAAAJgAAACYAAAAmAAAAJgAA
+        ACYAAAAmAAAAJgAAACYAAAAmAAAAJgAAACYAAAAmAAAAJgAAACYAAAAmAAAAJgAAACYAAAAmAAAAJgAA
+        ACYAAAAmAAAAJgAAACYAAAAmAAAAJgAAACYAAAAjAAAAFgAAAAuLhoSBhYF+94iEgf+IhIH/iISB/4iE
+        gf+IhIH/iISB/4iEgf+IhIH/iISB/4iEgf+IhIH/iISB/4iEgf+IhIH/ioaD/4yJhv+PjIn/j4qH/4uH
+        hf+IhIL/iISB/4iEgf+IhIH/iISB/4iEgf+IhIH/iISB/3l1c5QAAAAjAAAADYiEgf8AAAD/AAAA/wAA
+        AP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAA
+        AP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/iISB/wAAACYAAAANiISB/wAA
+        AP////7/AAAA/////v8AAAD////+/////v////7////+/////v8AAAD////+/////v////7////+////
+        /v8AAAD////+/wAAAP////7////+/////v////7/AAAA/////v8AAAD////+/wAAAP+IhIH/AAAAJgAA
+        AA2IhIH/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAA
+        AP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/4iE
+        gf8AAAAmAAAADYiEgf8ALf//AGj//wCj//8A3///AP/j/wD/qP8B/23/AP8y/xn/AP9V/wD/j/8A/8v/
+        AP//9wD//7wA//+BAP//RQD//wkA//8AQP//AHz//wC3//8A8v/QAP//lQD//1kA//8eAP//AAAA/wAA
+        AP8AAAD/iISB/wAAACYAAAANiISB/wAt//8AaP//AKP//wDe//8A/+P/AP+p/wD/bf8A/zH/Cv8A/1T/
+        AP+P/wD/y/8A///3AP//vQD//4EA//9FAP//CgD//wAy//8AfP//ALf//wDy/9AA//+VAP//WQD//x4B
+        //8AAAD//////wAAAP+IhIH/AAAAJgAAAA2IhIH/ACz//wBo//8Bo///AN///wD/5P8A/6j/AP9t/wD/
+        Mf8K/wD/Rf8A/5D/AP/L/wD///gA//+8AP//gQD//0YA//8KAP//ADH//wBt//8AuP//APP/0AD//5UA
+        //9ZAP//HgD//wAAAP8AAAD/AAAA/4iEgf8AAAAmAAAADYiEgf8AHf//AGj//wCk//8A3///AP/k/wD/
+        qf8A/23/AP8x/wr/AP9G/wD/gP8A/8v/AP//+AD//7wA//+BAP//RQD//woA//8AMv//AG3//wCo//8A
+        8//QAP//lQD//1kA//8dAP//AAAA/wAAAP8AAAD/iISB/wAAACYAAAANiISB/wAd//8AWf//AKT//wDf
+        //8A/+T/AP+o/wD/bf8A/zH/Cv8A/0X/AP+B/wD/y/8A///4AP//vAD//4AA//9GAP//CgD//wAy//8A
+        bf//AKn//wDk/9AA//+VAP//WgD//x0A//8AAAD/AAAA/wAAAP+IhIH/AAAAJgAAAA2IhIH/AB7//wBZ
+        //8Alf//AN///wD/5P8A/6j/AP9t/wD/Mf8K/wD/Rf8A/4H/AP+8/wD///gA//+9AP//gAD//0UA//8K
+        AP//ADH//wBt//8AqP//AOP/3wD//5QA//9ZAP//HQD//wAAAP//////AAAA/4iEgf8AAAAmAAAADYiE
+        gf8AHv//AFn//wCU//8A0P//AP/k/wD/qP8A/23/AP8x/wr/AP9G/wD/gP8A/73/AP/4/wD//70A//+A
+        AP//RQD//woA//8AMf//AG3//wCo//8A4//fAP//pAD//1kA//8eAP//AAAA/wAAAP8AAAD/iISB/wAA
+        ACYAAAANiISB/wAe//8AWf//AJX//wDQ//8A//P/AP+o/wD/bf8A/zH/Cv8A/0b/AP+B/wD/vP8A//f/
+        AP//ywD//4EA//9FAP//CgD//wAx//8Abf//AKj//wDk/98A//+jAP//aAD//x4A//8AAAD/AAAA/wAA
+        AP+IhIH/AAAAJgAAAA2IhIH/AB3//wBZ//8AlP//AND//wD/8/8A/7f/AP9t/wD/Mv8K/wD/Rf8A/4H/
+        AP+8/wD/9/8A///LAP//kAD//0UA//8KAP//ADL//wBt//8Aqf//AOT/3gD//6QA//9oAP//LAD//wAA
+        AP8AAAD/AAAA/4iEgf8AAAAmAAAADYiEgf8AHf//AFn//wCU//8A0P//AP/y/wD/t/8A/3z/AP8y/wr/
+        AP9F/wD/gf8A/7z/AP/4/wD//8sA//+QAP//VAD//woA//8AMf//AG3//wCo//8A4//fAP//pAD//2gA
+        //8tAP//AAAA//////8AAAD/iISB/wAAACYAAAANiISB/wAe//8AWf//AJT//wDQ//8A//P/AP+3/wD/
+        fP8A/0D/Cv8A/0b/AP+A/wD/vP8A//j/AP//ywD//5AA//9UAP//GQH//wAx//8Abf//AKj//wDk/98A
+        //+jAP//aAD//y0A//8AAAD/AAAA/wAAAP+IhIH/AAAAJgAAAA2IhIH/AB7//wBZ//8Alf//AND//wD/
+        8/8A/7j/AP98/wD/QP8A/wX/Rv8A/4H/AP+8/wD/+P8A///LAP//kAD//1QA//8ZAP//ACP//wBs//8A
+        qP//AOT/3wD//6MA//9oAP//LQD//wAAAP8AAAD/AAAA/4iEgf8AAAAmAAAADYiEgf8BHf//AFn//wCV
+        //8A0P//AP/z/wD/t/8A/3v/AP9A/wD/Bf82/wD/gP8A/7z/AP/4/wD//8sA//+QAf//VAD//xkA//8A
+        Iv//AF7//wCp//8A5P/fAP//pAD//2gA//8tAP//AAAA/wAAAP8AAAD/iISB/wAAACYAAAANioaE9gAP
+        //8AWf//AJT//wDQ//8A//P/AP+3/wD/fP8A/0H/AP8F/zf/AP9y/wD/vP8A//f/AP//ywD//5AA//9V
+        AP//GQD//wAj//8AXv//AJr//wDk/98A//+jAP//aAD//ywA//8AAAD//////wAAAP+IhIH/AAAAJgAA
+        AA2KhoT2AA///wBK//8Alf//AND//wD/8/8A/7f/AP97/wD/QP8A/wX/Nv8B/3L/AP+u/wD/9/8A///L
+        AP//jwD//1UA//8ZAP//ACP//wBe//8Amv//ANX/3wD//6QA//9oAP//LQD//wAAAP8AAAD/AAAA/4iE
+        gf8AAAAmAAAADYqGhPYAD///AEr//wCG//8A0P//AP/z/wD/t/8A/3z/AP9B/wD/Bf83/wD/cv8A/63/
+        AP/p/wD//8sA//+QAP//VAD//xkA//8AI///AF7//wCa//8A1f/uAP//owD//2gA//8tAP//Dw8P/wkJ
+        Cf8EBAT/iISB/wAAACYAAAANioaE9gAP//8ASv//AIb//wDB//8A//P/AP+3/wD/fP8A/0D/AP8F/zb/
+        AP9y/wD/rf8A/+j/AP//2gD//48A//9UAP//GQD//wAi//8AXv//AJn//wDV/+0A//+yAP//aAD//ywA
+        //8pKSn/KSkp/yYmJv+IhIH/AAAAJgAAAA2LhoT2AA///wBL//8Ahv//AMH//wD9//8A/7f/AP97/wD/
+        QP8A/wX/Nv8A/3L/AP+t/wD/6f8A///aAP//ngD//1QA//8ZAP//ACP//wBe//8Amv//ANX/7gD//7IA
+        //93AP//LQD//ywsLP//////Kysr/4iEgf8AAAAmAAAAC46KiPYADv//AEv//wCG//8Awf//APz//wD/
+        x/8A/3z/AP9A/wD/Bf83/wD/cv8A/63/AP/p/wD//9kA//+fAP//YwD//xkA//8AI///AF7//wCa//8A
+        1f/uAP//swD//3cA//88AP//LCws/ywsLP8pKSn/iISB/wAAACMAAAAGi4mH/ube2P/f19H/3tfR/97X
+        0f/e19H/3tfR/97X0f/e19H/3tfR/97X0f/e19H/3tfR/97X0f/e19H/3tfR/97X0f/e19H/3tfR/97X
+        0f/e19H/3tfR/97X0f+ReWj/3tfR/5F5aP/e19H/kXlo/97X0f+IhIH/AAAAFgAAAAKRjIl8iISB/4iE
+        gf+IhIH/iISB/4iEgf+IhIH/iISB/4iEgf+IhIH/iISB/4iEgf+IhIH/iISB/4iEgf+IhIH/iISB/4iE
+        gf+IhIH/iISB/4iEgf+IhIH/iISB/4iEgf+IhIH/iISB/4iEgf+IhIH/iISB/4uGhIEAAAAG////AP//
+        /wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP//
+        /wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP//
+        /wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP//
+        /wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP//
+        /wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP//
+        /wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP//
+        /wD///8A////AP///wD///8A//////////8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAD///////////////8=
+</value>
+  </data>
 </root>
